@@ -11,5 +11,5 @@ def read_video():
         return fp.read()
 
 def show():
-    st.title('QYJ&WYQ1 の Memory')
+    st.title('QYJ&WYQ の Memory')
     st.video(read_video())
