@@ -10,4 +10,4 @@ def get_video(video):
 
 def show():
     st.title('QYJ&WYQ の Memory')
-    st.video(get_video(r'res/first_video.mp4'))
+    st.video(get_video(r'first_video.mp4'))
